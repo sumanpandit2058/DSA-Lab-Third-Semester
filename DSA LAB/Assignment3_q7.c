@@ -1,0 +1,1 @@
+/*7. WAP using function to find frequency of occurrence of numbers in an array.*/
